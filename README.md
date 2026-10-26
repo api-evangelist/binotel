@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Binotel is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.binotel.ua/
+Binotel provides a virtual PBX (private branch exchange) telephone system for businesses, offering cloud‑based call handling, IVR, call routing, and analytics. The platform aims to improve sales, manager efficiency, and customer service quality through smart telephony solutions.
+
+**Areas:** Company · Telephony · Cloud · Business · Communications
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.binotel.ua/)
+- [Terms of service](https://www.binotel.ua/ua/terms)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/binotel/](https://apis.io/providers/binotel/).
